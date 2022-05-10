@@ -37,7 +37,8 @@
 
 
 ## String Session :
-[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@rizkyhmdanii16/StringSession)
+[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@sarkarking
+/StringSession)
 
 
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
